@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI2048", "AI2048\AI2048.csproj", "{0DA19704-F93E-4C69-9AAC-54EF31693929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI2048.Test", "AI2048.Test\AI2048.Test.csproj", "{6CBAE679-9D40-4BC4-A31F-FD2365691E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI2048.Console", "AI2048.Console\AI2048.Console.csproj", "{07529CA8-8797-499C-9A49-9AE9B9160913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA19704-F93E-4C69-9AAC-54EF31693929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA19704-F93E-4C69-9AAC-54EF31693929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA19704-F93E-4C69-9AAC-54EF31693929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA19704-F93E-4C69-9AAC-54EF31693929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBAE679-9D40-4BC4-A31F-FD2365691E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBAE679-9D40-4BC4-A31F-FD2365691E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBAE679-9D40-4BC4-A31F-FD2365691E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBAE679-9D40-4BC4-A31F-FD2365691E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07529CA8-8797-499C-9A49-9AE9B9160913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07529CA8-8797-499C-9A49-9AE9B9160913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07529CA8-8797-499C-9A49-9AE9B9160913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07529CA8-8797-499C-9A49-9AE9B9160913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C728307D-9746-4760-9A80-829C12EC5157}
+	EndGlobalSection
+EndGlobal
